@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola,
+#### este es un proyecto creado por Guillermo y Josep con la colaboración de eAgora
+
+![imagen eagora](https://user-images.githubusercontent.com/81468745/146152199-b00ec408-07fb-4991-afb9-160a421ec85c.png)
 
 <!--
 **GuillePueyo/GuillePueyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
