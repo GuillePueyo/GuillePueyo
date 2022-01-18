@@ -1,5 +1,6 @@
 ### Hola!!
-#### Este perfil es para compartir el proyecto fin de Master llevado a cabo por Guillermo Pueyo y Josep Velasco. Alumnos del Máster en Big Data, Data Science y Cloud Computing y en colaboración con eAgora
+#### Soy un apasionado de los datos y de las nuevas tecnologías. Actualmente estoy trabajando en una multinacional de estudios de mercado.
+#### Tengo un gran interés en la programación orientada a datos y las bases de datos. Cualquier cosa que se relacione con eso, me hará disfrutar.
 
 <img src="https://user-images.githubusercontent.com/81468745/146152199-b00ec408-07fb-4991-afb9-160a421ec85c.png" alt="Your image title" width="350"/> <img src="https://user-images.githubusercontent.com/81468745/146163062-e1c2cf0f-5deb-46c0-82fa-1310a51f8a9f.png" alt="Your image title" width="350"/>
 
