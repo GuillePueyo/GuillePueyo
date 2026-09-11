@@ -1,15 +1,35 @@
-### Hola, soy Guillermo 👋
+## Proyectos destacados
 
-**Más de 12 años conectando datos, inteligencia artificial y decisiones de negocio.**
+Proyectos que conectan análisis de datos, inteligencia artificial y necesidades de negocio. Comparto el problema que aborda cada uno, su enfoque técnico y sus funcionalidades. Algunos mantienen el código privado; puedo explicar su funcionamiento en una entrevista.
 
-Mi trayectoria combina ciencia de datos, liderazgo de plataformas de datos y consultoría técnica de preventa, con experiencia en NielsenIQ, SAS y Esker. He trabajado desarrollando modelos analíticos, mejorando procesos de datos y ayudando a empresas a entender cómo la tecnología puede resolver sus problemas y generar valor medible.
+### 📊 Collections ROI Calculator
 
-Actualmente trabajo como Sales Engineer en Esker. Combino el conocimiento técnico con la relación con clientes para diseñar demostraciones, construir casos de negocio y traducir necesidades empresariales en soluciones concretas.
+**Evaluación del impacto económico de la automatización de cobros.**
 
-Mi formación incluye másteres en Big Data e Inteligencia Artificial. Me interesan especialmente el machine learning, la IA explicable, las bases de datos y las aplicaciones de IA generativa.
+Aplicación interactiva para construir casos de negocio y explorar cómo cambian los resultados al variar los costes, las mejoras operativas y los supuestos financieros.
 
-En este perfil comparto proyectos que reflejan esa combinación: desde analítica aplicada a los Objetivos de Desarrollo Sostenible hasta simuladores de ROI con análisis de incertidumbre y explicaciones SHAP.
+* Cálculo de ROI, valor actual neto y plazo de recuperación de la inversión.
+* Simulación de escenarios para evaluar la robustez del caso de negocio ante la incertidumbre.
+* Uso de Random Forest y SHAP para explorar qué variables influyen en los resultados simulados.
+* Comparación de escenarios y generación de informes HTML.
+* Versión de demostración con referencias sintéticas, sin datos de clientes.
 
-**Mi enfoque: entender el problema, construir una solución y demostrar su impacto.**
+**Tecnologías:** Python · Streamlit · pandas · Plotly · scikit-learn · SHAP · SQLite
+**Acceso:** 🔒 Código privado. Presentación del proyecto y recorrido funcional bajo solicitud.
 
+### 🌍 Radar ODS — Proyecto de Máster MBIT
 
+**Aplicación de inteligencia artificial al análisis de iniciativas vinculadas con los Objetivos de Desarrollo Sostenible.**
+
+Proyecto de máster orientado a analizar comentarios e iniciativas de la plataforma eAgora y relacionarlos con los ODS mediante técnicas de procesamiento del lenguaje natural y aprendizaje automático.
+
+**Áreas:** Analítica de texto · Machine Learning · Objetivos de Desarrollo Sostenible
+**Acceso:** 🔓 Repositorio público.
+
+[Explorar Radar ODS en GitHub](https://github.com/GuillePueyo/Radar-ODS-Proyecto-MBIT)
+
+---
+
+### Contacto profesional
+
+Si alguno de estos proyectos encaja con una oportunidad profesional, puedes contactar conmigo para profundizar en las decisiones técnicas, la metodología y las posibles aplicaciones de negocio.
